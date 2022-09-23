@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-21T17:40:10 IST" name="Default suite" finished-at="2022-09-21T17:40:18 IST" duration-ms="8265">
+    <groups>
+    </groups>
+    <test started-at="2022-09-21T17:40:10 IST" name="Default test" finished-at="2022-09-21T17:40:18 IST" duration-ms="8265">
+      <class name="TestCases.SPMD_TC_1">
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:TestCases.SPMD_TC_1@23c30a20]" started-at="2022-09-21T17:40:10 IST" name="preCondition" finished-at="2022-09-21T17:40:15 IST" duration-ms="5523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="runLogin()[pri:0, instance:TestCases.SPMD_TC_1@23c30a20]" started-at="2022-09-21T17:40:15 IST" name="runLogin" finished-at="2022-09-21T17:40:18 IST" duration-ms="2464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runLogin -->
+        <test-method is-config="true" signature="PostCondition()[pri:0, instance:TestCases.SPMD_TC_1@23c30a20]" started-at="2022-09-21T17:40:18 IST" name="PostCondition" finished-at="2022-09-21T17:40:18 IST" duration-ms="224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostCondition -->
+      </class> <!-- TestCases.SPMD_TC_1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
